@@ -12,7 +12,7 @@ CREATE TABLE `regtbl` (
 
 
 INSERT INTO `regtbl` (`id`, `username`, `email`, `password`) VALUES
-(3, 'JohnDino', 'jcanete.shs@gmail.com', '86c05c68ea0bfd03ec14340c093123b3');
+(3, 'Jervie', 'jbatobato.shs@gmail.com', '86c05c68ea0bfd03ec14340c093123b3');
 
 
 CREATE TABLE `tbl_class` (
@@ -26,7 +26,7 @@ CREATE TABLE `tbl_class` (
 
 
 INSERT INTO `tbl_class` (`id`, `classcode`, `studentid`, `subjectcode`, `time`, `teacher`) VALUES
-(3, '111', 2, '11', '0000-00-00', 'gab');
+(3, '001', 2, '110', '12-23-01', 'jeee');
 
 
 
@@ -45,7 +45,7 @@ CREATE TABLE `tbl_student` (
 --
 
 INSERT INTO `tbl_student` (`studentid`, `fname`, `lname`, `gender`, `birthdate`, `address`, `contact`) VALUES
-(2, 'John Dino', 'Canete', 'Male', 'December 16 , 2000', 'Cebu City', '09751258846');
+(2, 'Jervie', 'Batobato', 'Male', 'April 23 , 2001', 'Salvador', '09455945121');
 
 --
 -- Indexes for dumped tables

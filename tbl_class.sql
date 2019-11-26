@@ -43,9 +43,9 @@ CREATE TABLE `tbl_class` (
 
 INSERT INTO `tbl_class` (`id`, `classcode`, `studentid`, `subjectcode`, `time`, `teacher`) VALUES
 (2, 'asd', 7, 'asd', 'asd', 'asd'),
-(3, 'qwe1', 7, 'awds12', '12:20', 'GabbyLopez'),
-(4, 'qwe1', 7, 'awds12', '12:20', 'GabbyLopez'),
-(5, 'as11', 7, 'qws2', '12:00', 'GabbyLopez');
+(3, 'qwe1', 7, 'awds12sad', '12:20', 'GabbyLopez'),
+(4, 'qwe1', 7, 'sad12', '12:20', 'GabbyLopez'),
+(5, 'as11', 7, 'lonely', '12:00', 'GabbyLopez');
 
 --
 -- Indexes for dumped tables

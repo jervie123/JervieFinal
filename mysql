@@ -41,7 +41,7 @@ CREATE TABLE `regtbl` (
 
 INSERT INTO `regtbl` (`id`, `username`, `email`, `password`) VALUES
 (4, '123', 'poncecapitolsite@gmail.com', '202cb962ac59075b964b07152d234b70'),
-(5, 'Juvi', 'jadolfo.shs@gmail.com', '202cb962ac59075b964b07152d234b70');
+(5, 'Juvi', 'jbatobato.shs@gmail.com', '202cb962ac59075b964b07152d234b70');
 
 -- --------------------------------------------------------
 
